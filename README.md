@@ -100,3 +100,4 @@ By default, the app points to `http://localhost:3000/v1` (or `http://10.0.2.2:30
    http://192.168.x.x:3000/v1
    ```
 4. Toggle **Offline Demo Mode** to test with mock data even when disconnected from the backend.
+

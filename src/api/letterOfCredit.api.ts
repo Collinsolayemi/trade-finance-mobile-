@@ -91,3 +91,4 @@ export const LetterOfCreditApi = {
     return apiClient.post(`/letter-of-credit/${id}/reject`, { reason });
   },
 };
+

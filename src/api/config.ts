@@ -18,3 +18,4 @@ export const apiConfig: ApiConfig = {
 export const setApiBaseUrl = (url: string) => {
   apiConfig.baseUrl = url.replace(/\/+$/, '');
 };
+

@@ -57,3 +57,4 @@ export interface UserProfile {
   branch: string;
   permissions: string[];
 }
+
